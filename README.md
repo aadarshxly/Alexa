@@ -6,9 +6,3 @@ Hey There I am Alexa,
 The Advance discord music bot.
 Add me to tune your community,
 Allowing you setup music with super easy user interface 
-
-
-## Developer:
-[![Aadarsh](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig.ryanx7) 
-
-
