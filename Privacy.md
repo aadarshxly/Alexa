@@ -1,4 +1,4 @@
-# Anisa Privacy Policy 
+# Alexa Privacy Policy 
 Last Updated: June 24 2024
 
 This document outlines the privacy policy for the Discord bot This document outlines the privacy policy for the Discord bot ("Chingari") and its associated services provided by the developer. and its associated services provided by the developer.
