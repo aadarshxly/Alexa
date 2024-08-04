@@ -12,5 +12,3 @@ Allowing you setup music with super easy user interface
 [![Aadarsh](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig.ryanx7) 
 
 
-## You can help us by Donating
- - By Adding or Bot
